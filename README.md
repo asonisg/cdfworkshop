@@ -1,18 +1,20 @@
-# cdfworkshop
-Cloudera CDF AWS workshop
+# cdfworkshop August 2023
 
 Cloudera Data Flow workshop. All the required password will be provided during the workshop
 
-Github access link: https://github.com/asonisg/cdfworkshop/ -> download the student guide and syslog-to-kafka.json file
+## Github access link: https://github.com/asonisg/cdfworkshop/ -> download 
+-> The student guide pdf & 
+-> Syslog-to-kafka_1.json file
 
-Lab access link: xxx
+## 1 Lab access link: 
+https://login.cdpworkshops.cloudera.com/auth/realms/se-workshop-6/protocol/saml/clients/cdp-sso
 
-CDP login username: user0xx (replace xx with the number assigned to your user)
+## 2 CDP login username: 
+user0xx (replace xx with the number assigned to your user)
 
-CDP login pasword:
+## 3 CDP login pasword:
 
-CDP workload username: workshop0xx (replace xx with the number assigned to your user/group)
+## 4 CDP workload username: 
+user0xx (replace xx with the number assigned to your user)
 
-CDP workload password: xxx
-
-S3 bucket link: xxx
+## 5 CDP workload password: 

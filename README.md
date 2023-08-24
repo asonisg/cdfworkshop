@@ -4,6 +4,7 @@ Cloudera Data Flow workshop. All the required password will be provided during t
 
 ## Github access link: https://github.com/asonisg/cdfworkshop/ -> download 
 -> The student guide pdf & 
+
 -> Syslog-to-kafka_1.json file
 
 ## 1 Lab access link: 

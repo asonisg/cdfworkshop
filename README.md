@@ -13,7 +13,7 @@ https://login.cdpworkshops.cloudera.com/auth/realms/se-workshop-6/protocol/saml/
 ## 2 CDP login username: 
 user0xx (replace xx with the number assigned to your user)
 
-## 3 CDP login pasword:
+## 3 CDP login pasword: G0yvxvdms5srhyKF
 
 ## 4 CDP workload username: 
 user0xx (replace xx with the number assigned to your user)

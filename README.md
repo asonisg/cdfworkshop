@@ -8,7 +8,7 @@ Cloudera Data Flow workshop. All the required password will be provided during t
 -> Syslog-to-kafka_1.json file
 
 ## 1 Lab access link: 
-https://login.cdpworkshops.cloudera.com/auth/realms/se-workshop-6/protocol/saml/clients/cdp-sso
+
 
 ## 2 CDP login username: 
 user0xx (replace xx with the number assigned to your user)
